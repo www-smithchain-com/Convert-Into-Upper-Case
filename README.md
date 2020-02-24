@@ -2,6 +2,6 @@
 Convert Into Upper Case
 
 
-![Screenshot](https://github.com/www-smithchain-com/Convert-Into-Upper-Case/blob/master/preview.gif.gif?raw=true)
+![Screenshot](https://github.com/www-smithchain-com/Convert-Into-Upper-Case/blob/master/preview.gif?raw=true)
 
 Demo: https://apex.oracle.com/pls/apex/f?p=65355:1
