@@ -1,6 +1,8 @@
 # Convert-Into-Upper-Case
 Convert Into Upper Case
 
+Preview
+https://github.com/www-smithchain-com/Convert-Into-Upper-Case/blob/master/preview.gif
 
 ![Screenshot](https://github.com/www-smithchain-com/Convert-Into-Upper-Case/blob/master/preview.gif?raw=true)
 
