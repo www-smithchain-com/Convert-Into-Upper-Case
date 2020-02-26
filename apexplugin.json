@@ -1,0 +1,43 @@
+{
+   "name":"Convert-Into-Upper-Case",
+   "version":"1.2.0",
+   "description":"This plug-in will convert text field value into upper case automaticaly.",
+   "keywords":[
+      "item",
+      "ConvertCase",
+      "oracle",
+      "apex",
+      "Upper Case",
+      "Vikas"
+   ],
+   "homepage":"https://github.com/www-smithchain-com/Convert-Into-Upper-Case",
+   "license":"MIT",
+   "author":{
+      "name":"Vikas Pandey",
+      "email":"vikaspandey641@gmail.com"
+   },
+   "repository":{
+      "type":"git",
+      "url":"https://github.com/www-smithchain-com/Convert-Into-Upper-Case.git"
+   },
+   "oracle":{
+      "versions":[
+         "11.2.0.1",
+         "12.1.0.1"
+      ],
+      "apex":{
+         "versions":[
+            "5.1.4",
+            "18.1.0",
+            "19.1.0",
+            "19.2.0"
+         ],
+         "plugin":{
+            "internalName":"UPPERCASE",
+            "type":"item",
+            "demo":"https://apex.oracle.com/pls/apex/f?p=65355:1",
+            "previewImage":"https://raw.githubusercontent.com/www-smithchain-com/Convert-Into-Upper-Case/master/preview.gif"
+         }
+      }
+   }
+}
