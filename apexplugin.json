@@ -1,5 +1,5 @@
 {
-  "name": "Auto Convert Case Plugin",,
+  "name": "Auto Convert Case Plugin",
   "version" : "1.2.0",
    "description": "This plug-in will convert text field value into upper case automaticaly.",
   "keywords" : ["item","ConvertCase","oracle","apex","Upper Case","Vikas"],
