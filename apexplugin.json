@@ -1,7 +1,7 @@
 {
     "name": "Convert-Into-Upper-Case",
     "version": "1.0",
-    "description": "This plug-in will convert text field valueinto upper case.",
+    "description": "This plug-in will convert text field value into upper case.",
     "keywords": [
         "item",
         "ConvertCase",
@@ -36,7 +36,7 @@
                 "internalName": "UPPERCASE",
                 "type": "item",
                 "demo": "https://apex.oracle.com/pls/apex/f?p=65355:1",
-                "previewImage" : "https://raw.githubusercontent.com/www-smithchain-com/Convert-Into-Upper-Case/blob/master/preview.gif"
+                "previewImage" : "https://github.com/www-smithchain-com/Convert-Into-Upper-Case/blob/master/preview.gif"
             }
         }
     }
